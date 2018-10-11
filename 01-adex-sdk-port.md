@@ -8,4 +8,8 @@ The AdEx SDK has the responsibility of showing an ad, and tracking impressions a
 
 Re-implement the `adex-adview` for another platform, for example Android or iOS.
 
+## Resources
 
+[adex-adview](https://github.com/AdExNetwork/adex-adview)
+
+[adex-node](https://github.com/AdExNetwork/adex-node)

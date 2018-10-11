@@ -13,3 +13,8 @@ Implement the bot in a separate repository. Pull requests to `adex-node` may be 
 The bot needs to send notifications to the user as soon as they have any bids ready for confirmation.
 
 Since all of the data is public anyway, authentication is not really a requirement. The bot can be merely be configured with your Telegram/Status username and your Ethereum address.
+
+
+## Resources
+
+[adex-node](https://github.com/AdExNetwork/adex-node)
